@@ -1,5 +1,5 @@
 # PythonForDS
-There is a repository, where I will publish the sample codes and techniques to be able to reuse again in the future. All the code sample are in Python.
+This repository is a vault, where I will keep the sample codes and techniques to be able to reuse again in the future. All the code sample are in Python.
 
 ## Structure of the repository:
 1. Techniques + code samples with description
