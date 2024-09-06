@@ -12,4 +12,7 @@ This repository is a vault, where I will keep the sample codes and techniques to
 
 
 ## Libraries
-tensorflow matplotlib keras numpy pandas scipy seaborn plotly dash sklearn
+**Data manipulation and analysis**: Pandas, Numpy, SciPy
+**Machine learning**: Tensorflow, Scikit-Learn
+**Visualization**: Matplotlib, Seaborn, Plotly, Folium
+**Web deployment**: Dash
