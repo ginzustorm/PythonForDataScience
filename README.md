@@ -21,8 +21,8 @@ DL (Deep Learning) - to be updated
 
 
 ## Libraries
-**Data manipulation and analysis**: Pandas, Numpy, SciPy
-**Machine learning**: Tensorflow, Scikit-Learn
-**NLP**: NLTK, Spacy, TextBlob
-**Visualization**: Matplotlib, Seaborn, Plotly, Folium
-**Web deployment**: Dash
+- **Data manipulation and analysis**: Pandas, Numpy, SciPy
+- **Machine learning**: Tensorflow, Scikit-Learn
+- **NLP**: NLTK, Spacy, TextBlob
+- **Visualization**: Matplotlib, Seaborn, Plotly, Folium
+- **Web deployment**: Dash
